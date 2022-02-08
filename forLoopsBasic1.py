@@ -54,5 +54,4 @@ for x in range (2, highNum + 1):
     if (x % mult == 0):
         # print(x)
         print(f"Flexible Counter: %d" % x)
-
-        
+        # continue
